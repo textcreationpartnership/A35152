@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of such books that are printed for, and sold by William Crooke, at the Green Dragon without Temple-Bar, next to Devereux Court where is to be sold Bibles, Common Prayers and all other sorts of books.</title>
+            <author>Crooke, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35152</idno>
+            <idno type="STC">Wing C7234</idno>
+            <idno type="STC">ESTC R29666</idno>
+            <idno type="EEBO-CITATION">11191591</idno>
+            <idno type="OCLC">ocm 11191591</idno>
+            <idno type="VID">46631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of such books that are printed for, and sold by William Crooke, at the Green Dragon without Temple-Bar, next to Devereux Court where is to be sold Bibles, Common Prayers and all other sorts of books.</title>
+                  <author>Crooke, William.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, printed :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46631:1"/>
+            <pb facs="tcp:46631:1"/>
+            <p>A CATALOGUE OF SUCH BOOKS That ate printed for, and ſold by <hi>WILLIAM CROOKE,</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar,</hi> next to <hi>Deve<g ref="char:EOLhyphen"/>reux</hi> Court.</p>
+            <p>Where is to be Sold Bibles, Common Pray<g ref="char:EOLhyphen"/>ers, and all other ſorts of Books.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="booksellers_catalogue">
+            <pb facs="tcp:46631:2"/>
+            <pb n="1" facs="tcp:46631:2"/>
+            <head>
+               <hi>Books</hi> Printed for <hi>William Crooke,</hi> Bookseller, at the Sign of the <hi>Green Dragon</hi> without <hi>Temple Bar,</hi> nigh the Paſſage into the <hi>Temple,</hi> by <hi>Devereux Court, 1683.</hi>
+            </head>
+            <list>
+               <head>DIVINITY.</head>
+               <item>1. <hi>SIxty one Sermons,</hi> preached moſtly upon pub<g ref="char:EOLhyphen"/>lick occaſions, by <hi>Adam Littleton,</hi> D. D. <hi>Folio,</hi> Price 16 <hi>s.</hi>
+               </item>
+               <item>2. <hi>Brevis Demonſtratio,</hi> being the truth of the Chriſtian Religion, proved by Reaſon, 120. price bound 10 <hi>d</hi>
+               </item>
+               <item>3. <hi>The Primitive Inſtitution,</hi> ſhewing the antiquity and uſefulneſs of Catechizing, together with its ſui<g ref="char:EOLhyphen"/>tableneſs to heal the diſtempers of the Church, by <hi>L. Addiſon,</hi> D. D. price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>4. A <hi>Sermon</hi> preached at the <hi>Funeral</hi> of a ſober reli<g ref="char:EOLhyphen"/>ous man, found drown'd in a Pit, in 80. price bound 1 <hi>s.</hi>
+               </item>
+               <item>5. Mr. <hi>Howel</hi>'s Viſitation Sermon before the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Chicheſter,</hi> 40. price 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <pb n="2" facs="tcp:46631:3"/>6. Dr. <hi>Haſcard</hi>'s 2 Sermons on the 5th. of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> and before the L. Mayor of <hi>London,</hi> in 40.</item>
+               <item>7. Mr. <hi>Manningham</hi>'s 2 Sermons before the L. May<g ref="char:EOLhyphen"/>or at St, <hi>Maries</hi> in <hi>Oxford.</hi> in 40.</item>
+               <item>8. <hi>A Sermon</hi> preached at the <hi>Savoy</hi> in <hi>French,</hi> and ſince printed in <hi>French</hi> and <hi>Engl.</hi> 120. price bound 8 <hi>d.</hi>
+               </item>
+               <item>9. <hi>A Modeſt Plea for the Clergy,</hi> wherein is conſi<g ref="char:EOLhyphen"/>dered the reaſons why why the Clergy are ſo contemned and neglected, by <hi>L. A.</hi> D. D. price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>10. <hi>Hugo Grotius,</hi> his <hi>Catechiſm, Greek, Latin,</hi> and <hi>Engliſh,</hi> with a <hi>Praxis</hi> of all the <hi>Greek</hi> words therein contained, in 80, price bound 2 <hi>s.</hi>
+               </item>
+               <item>11. <hi>The Spirit of Prophecy,</hi> proving, that Chriſt and his Apoſtles were Prophets: written by the di<g ref="char:EOLhyphen"/>rections of, and recommended to the Preſs, by the right reverend Father in God, <hi>Peter,</hi> Lord Biſhop of <hi>Ely,</hi> in 80. price 3 <hi>s.</hi>
+               </item>
+               <item>12. <hi>The King-killing Doctrine of the Jeſuites,</hi> in a ſincere diſcourſe to the <hi>French</hi> King: written by a <hi>Roman Catholick,</hi> in 40. price 1 <hi>s.</hi>
+               </item>
+               <item>13. <hi>Juſtifying Faith;</hi> or the Faith by which the Juſt do live, together with the excellency of the <hi>Com<g ref="char:EOLhyphen"/>mon Prayer Book,</hi> in 80. price bound 1 <hi>s.</hi>
+               </item>
+               <item>14. <hi>Mercy Triumphant,</hi> or the Kingdom of Chriſt enlarged beyond the narrow bounds which have been wont to be ſet to it, by <hi>Ed. Lane.</hi>
+               </item>
+               <item>15. <hi>Du Moulin</hi>'s <hi>Reflections reverberated,</hi> being a full Anſwer to the damning Doctrine of Dr. <hi>Lewis Du Mowlin:</hi> alſo, a Confutation of <hi>Edmond Hicker<g ref="char:EOLhyphen"/>ingill</hi>'s railing againſt the <hi>Eccleſiaſtical Courts,</hi> by <hi>E. Lane,</hi> in 40. 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <pb n="3" facs="tcp:46631:3"/>16. <hi>Reſponſio Valedictoria ad ſecundam</hi> Sandii <hi>Epi<g ref="char:EOLhyphen"/>ſtolam, &amp;c. per</hi> Sam. Gardiner, S. T. D. in 80. pri. 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>17. The Book of <hi>Pſalms paraphraſed,</hi> with <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> to each Pſalm, in 2 Vol. by <hi>S. Patrick,</hi> D. D. and Dean of <hi>Peterburgh,</hi> in 80. price 10 <hi>s.</hi>
+               </item>
+               <item>18. The Book of the <hi>Proverbs of</hi> Solomon <hi>Para<g ref="char:EOLhyphen"/>phraſed</hi> with <hi>Arguments,</hi> by <hi>S. Patrick,</hi> D. D. <hi>&amp;c.</hi>
+               </item>
+               <item>19. The <hi>Chriſtian Sacrifice,</hi> a <hi>Treatiſe,</hi> ſhewing the neceſſity, end and manner of receiving the Holy Com<g ref="char:EOLhyphen"/>munion, together with Prayers and Meditations, <hi>&amp;c.</hi> by <hi>S. Patrick,</hi> &amp;c.</item>
+               <item>20. The <hi>Devout Chriſtian,</hi> inſtructing how to pray and give thanks to God; or a <hi>Book of Devotions</hi> for Families, and for particular perſons, <hi>&amp;c.</hi> by <hi>S. Patrick.</hi>
+               </item>
+               <item>21. <hi>The penitent Chriſtian,</hi> fitted with <hi>Meditations</hi> and <hi>Prayers</hi> for the devout receiving of the <hi>Sacrament</hi> of the <hi>Lords Supper,</hi> by <hi>Lewis Southcomb,</hi> 120. pr. 1 <hi>s.</hi>
+               </item>
+               <item>22. <hi>The Truth of the Chriſtian Religon;</hi> written in <hi>Latin,</hi> in 6 Books, by the Learned <hi>Hu. Grotius,</hi> now tranſlated into <hi>Engliſh,</hi> with a <hi>Seventh</hi> Book added to it, by <hi>S. Patrick,</hi> D. D. in 80.</item>
+               <item>23. The <hi>Works</hi> of the pious, and profoundly lear<g ref="char:EOLhyphen"/>ned <hi>Joſeph Mede,</hi> B. D. ſome time Fellow of <hi>Chriſts Church, Cambridge,</hi> corrected and enlarged according to the Authors own <hi>Manuſcripts,</hi> in <hi>Folio.</hi>
+               </item>
+               <item>24. <hi>A Demonſtration</hi> of the <hi>Divine Authority</hi> of the <hi>Law of Nature,</hi> and of the <hi>Chriſtian Religion,</hi> in two parts, by <hi>Sam. Parker,</hi> D. D. in 40.</item>
+               <item>25. The <hi>Rules</hi> and <hi>Exerciſes</hi> of <hi>Holy living</hi> and <hi>Holy dying,</hi> by <hi>Jer. Taylor</hi> D. D. the 13th. Edition in 80.</item>
+               <item>
+                  <pb n="4" facs="tcp:46631:4"/>26. <hi>The Penitent pardoned,</hi> or a Diſcourſe of the Na<g ref="char:EOLhyphen"/>ture of Sin, and the Efficacy of Repentance, under the Parable of the Prodigal Son, by <hi>J. Goodman,</hi> D. D. 40.</item>
+               <item>27. <hi>The Practiſe of Chriſtianity,</hi> in two Parts, by Dr. <hi>Sherlock,</hi> in 80. price 5 <hi>s.</hi>
+               </item>
+               <item>28. <hi>A Collection of private Devotions</hi> in the pra<g ref="char:EOLhyphen"/>ctice of the ancient Church, called the hours of Pray<g ref="char:EOLhyphen"/>er; taken out of the Scriptures, Fathers, <hi>&amp;c.</hi> by Dr. <hi>Cozens</hi> late Biſhop of <hi>Durham,</hi> 120. price 2 <hi>s.</hi>
+               </item>
+               <item>29. The <hi>Holy Court</hi> compleat, by <hi>Nic. Cauſin.</hi> in <hi>folio.</hi>
+               </item>
+               <item>30. Biſhop <hi>Sanderſon</hi>'s Sermons compleat. <hi>fol.</hi>
+               </item>
+               <item>31. <hi>Perkin</hi>'s <hi>Works</hi> in 3 Volumes, <hi>folio.</hi>
+               </item>
+               <item>32. Robinſon's <hi>Annalium Mundi <g ref="char:V">Ʋ</g>niverſalium,</hi> in <hi>folio.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>With moſt ſorts of other Divinity Books.</hi>
+            </p>
+            <list>
+               <head>LAW.</head>
+               <item>1. <hi>THE Juriſdiction of the Authority of</hi> Court-Leets, Court Barons, Court Marſhalſea, <hi>&amp;c.</hi> together with the moſt neceſſary learning of <hi>Tenures,</hi> and all their Incidents of <hi>Eſſoyns, &amp;c.</hi> with the <hi>Re<g ref="char:EOLhyphen"/>turn</hi> and <hi>Forms</hi> of ſeveral Original and Judicial <hi>Writs,</hi> now in uſe, relating to <hi>Writs</hi> of Error, <hi>Writs</hi> of falſe Judgment, and other <hi>Proceedings</hi> of frequent uſe in the <hi>Courts of Weſtminſter,</hi> by <hi>J. Kitchin</hi> of <hi>Grays Inn</hi>
+                  <abbr>Eſq</abbr> To which is added <hi>Brevia ſelecta,</hi> be<g ref="char:EOLhyphen"/>ing a Choice Collection of ſpecial <hi>Writs;</hi> the Fifth Edition, in <hi>octa.</hi> price 6 <hi>s.</hi>
+               </item>
+               <item>
+                  <pb n="5" facs="tcp:46631:4"/>2. <hi>Praxis Curiae Admiralitatis Angliae,</hi> Author <hi>Francis Clarke,</hi> in 120. price 1 <hi>s.</hi>
+               </item>
+               <item>3. Sir <hi>Simon Deig</hi>'s Parſon's Councellour, the laſt Edition in <hi>octa.</hi>
+               </item>
+               <item>4. <hi>The Reports</hi> of Sir <hi>Henry Hobart,</hi> Chief Ju<g ref="char:EOLhyphen"/>ſtice of the Common Pleas, <hi>folio.</hi> price 10 <hi>s.</hi>
+               </item>
+               <item>5. <hi>Formulae bene placitandi,</hi> a Book of Entries containing Variety of Choice Precedents, by <hi>W. Brown,</hi> in two parts, <hi>folio.</hi>
+               </item>
+               <item>6. <hi>The ſecond Part of the Inſtitutes of the Laws of</hi> England, containing the Expoſition of the Statutes, by Sir <hi>Ed Coke. folio.</hi> price 15 <hi>s.</hi>
+               </item>
+               <item>7. <hi>The third part of the Inſtitute of the Lawe of</hi> England, concerning the Pleas of the Crown, by Sir <hi>Edw. Coke. folio.</hi> price 6 <hi>s.</hi>
+               </item>
+               <item>8. <hi>The fourth Part of the Inſtitutes of the Laws of</hi> England, concerning the Juriſdiction of Courts, by Sir <hi>Edward Coke,</hi> in <hi>folio.</hi> price 10 <hi>s.</hi>
+               </item>
+               <item>9. <hi>The Law of charitable <g ref="char:V">Ʋ</g>ſes</hi> reviſed, and much enlarged, with many Caſes in Law, both ancient and modern; with the Readings of Sir <hi>Francis Moor</hi> upon the Statute of the 43. of <hi>Eliz.</hi> digeſted by <hi>G. Duty</hi>
+                  <abbr>Eſq</abbr>
+                  <hi>folio.</hi>
+               </item>
+               <item>10. <hi>Officina Brevium,</hi> ſelect and approved Forms of Judicial Writs, and other Proceſs, with their Returns and Entries in the Court of <hi>Common Pleas:</hi> as alſo ſpecial pleadings to Writs, <hi>fol.</hi>
+               </item>
+               <item>11. <hi>Fitz Herbert</hi>'s <hi>Natura Brevium,</hi> the laſt Edi<g ref="char:EOLhyphen"/>tion, in 80.</item>
+               <item>12. <hi>Wingate</hi>'s <hi>Abridgment,</hi> the laſt Edition in 80.</item>
+               <item>13. <hi>Young Clerk</hi>'s <hi>Guide,</hi> in four Parts, or an
+<pb n="6" facs="tcp:46631:5"/>exact Collection of choice Engliſh Preſidents, octavo.</item>
+               <item>14. <hi>Reports</hi> of divers Caſes in Law, taken by <hi>R. Brownlow</hi> and <hi>J. Goldsbrough</hi> Eſquires, both Protho<g ref="char:EOLhyphen"/>notarys; with <hi>directions</hi> how to proceed in any <hi>intri<g ref="char:EOLhyphen"/>cate Actions,</hi> both real and perſonal, with an exact Table, the 3d. Edition, in 40.</item>
+               <item>15. <hi>The Touchſtone of Preſidents,</hi> relating to Judi<g ref="char:EOLhyphen"/>cial Proceedings at <hi>Common Law,</hi> in oct.</item>
+               <item>16. <hi>Actions on the Caſe for Deeds, viz.</hi> Contracts, Aſſumpſits, Deceipts, Nuſances, Trover, and Con<g ref="char:EOLhyphen"/>verſion, <hi>&amp;c.</hi> with 2 Tables, by <hi>W. Sheppard</hi>
+                  <abbr>Eſq</abbr> octavo.</item>
+               <item>17. <hi>The Practick part of the Law,</hi> ſhewing office of an Attorney, and guide for Sollicitors, in oct.</item>
+               <item>18. <hi>Reports,</hi> or new Caſes, taken in the 15, 16, 17, and 18th years of King <hi>Charles</hi> 1ſt. by <hi>J. March</hi>
+                  <abbr>Eſq</abbr> in 40.</item>
+               <item>19. <hi>A Dialogue betwixt a</hi> Student <hi>and a</hi> Philoſo<g ref="char:EOLhyphen"/>pher <hi>about the</hi> Common Law <hi>of</hi> England, by <hi>Thomas Hobbs</hi> of <hi>Malmsberry,</hi> in oct.</item>
+               <item>20. <hi>The Compleat Sollicitor,</hi> entring Clerk and Attorney, <hi>&amp;c.</hi> in oct. <hi>printing.</hi>
+               </item>
+               <item>21. Several Statutes of <hi>Bankrupt,</hi> with the Judges Reſolution thereon, in oct. price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>With all ſorts of other Law Books.</hi>
+            </p>
+            <list>
+               <pb n="7" facs="tcp:46631:5"/>
+               <head>HISTORY.</head>
+               <item>1. <hi>AN Inſtitution of general Hiſtory,</hi> or the Hiſto<g ref="char:EOLhyphen"/>ry of the World; being a compleat body thereof, in 2 Volumes, by <hi>W. Howel,</hi> now Chan<g ref="char:EOLhyphen"/>cellor of <hi>Lincoln,</hi> in <hi>folio.</hi>
+               </item>
+               <item>2. <hi>Hiſtorical Collections,</hi> being an account of the Proceedings of the 4 laſt Parliaments of Qu. <hi>Elizab.</hi> by <hi>H. Townſend</hi>
+                  <abbr>Eſq</abbr> in <hi>folio.</hi>
+               </item>
+               <item>3. <hi>A Chronicle of the late Inteſtine Wars,</hi> of the three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> from the year 1639. to the year 1660, by Mr. <hi>Heath,</hi> ſince continued to the year 1674, in <hi>folio.</hi>
+               </item>
+               <item>4. <hi>Some years Travels into divers parts of</hi> Aſia, <hi>and</hi> Africa <hi>the Great,</hi> by Sir <hi>Tho. Herbert</hi> lately deceaſed, the 4th Edition, in <hi>folio.</hi>
+               </item>
+               <item>5. The Hiſtory of <hi>Parthemiſſa,</hi> compoſed in 6 books by the Earl of <hi>Orrerg,</hi> in <hi>folio.</hi>
+               </item>
+               <item>6. <hi>Clelia,</hi> the whole Work, in five parts; writ<g ref="char:EOLhyphen"/>ten in <hi>French,</hi> now put into <hi>Engliſh,</hi> in <hi>folio.</hi>
+               </item>
+               <item>7. Scarron<hi>'s Comical Romance,</hi> being an Hiſtorical account of a company of <hi>Stage-players,</hi> full of varie<g ref="char:EOLhyphen"/>ty of <hi>Novels,</hi> rare <hi>Adventures,</hi> amorous <hi>Intreagues,</hi> &amp;c. being both witty and pleaſant, in <hi>folio.</hi>
+               </item>
+               <item>8. <hi>Popiſh Cruelties,</hi> being an account of the Trea<g ref="char:EOLhyphen"/>ſons of Dr. <hi>Parry</hi> againſt Qu. <hi>Eliz.</hi> with his Confeſ<g ref="char:EOLhyphen"/>ſion of it at his Tryal, and his denyal at his Executi<g ref="char:EOLhyphen"/>on, <hi>folio</hi> price 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:46631:6"/>9. <hi>The Life</hi> of <hi>Thomas Hobbs</hi> of <hi>Malmsbury,</hi> writ<g ref="char:EOLhyphen"/>ten by himſelf in Latin, ſince tranſlated into <hi>Engliſh,</hi> to <hi>folio,</hi> price 6 <hi>d.</hi>
+               </item>
+               <item>10. <hi>An Hiſtorical Narration of Hereſy,</hi> with an ac<g ref="char:EOLhyphen"/>count of the Puniſhments thereof, by <hi>Tho. Hobbs</hi> of <hi>Malmsbury,</hi> in <hi>folio,</hi> priced 6 <hi>d.</hi>
+               </item>
+               <item>11. <hi>Megalopſichy,</hi> being a particular and exact ac<g ref="char:EOLhyphen"/>count of the laſt 17 years of Qu. <hi>Elizabeths</hi> Reign, both <hi>Military</hi> and <hi>Civil,</hi> the firſt written by Sir <hi>W. Monſon</hi> one of the ſaid Queens Admirals; the ſe<g ref="char:EOLhyphen"/>cond written by <hi>H. Townſend</hi>
+                  <abbr>Eſq</abbr> a Member of her laſt Parliament. Wherein is a true and faithful Relati<g ref="char:EOLhyphen"/>on of all the <hi>expeditious</hi> attempts, <hi>deſignes,</hi> ſucceſſes, and <hi>errors,</hi> both of the <hi>Engliſh</hi> and <hi>Spaniſh,</hi> in the Wars from the year 1585, to the ſaid Queens Death. With a full account of the eminent <hi>Speeches</hi> and <hi>De<g ref="char:EOLhyphen"/>bates,</hi> &amp;c. in the ſaid time. To which is added, Dr. <hi>Par<g ref="char:EOLhyphen"/>ry</hi>'s Tryal in the year 1584, all written <hi>at the time of the Actions</hi> by perſons that were <hi>eminently acting there<g ref="char:EOLhyphen"/>in, folio,</hi> price bound 10 <hi>s.</hi>
+               </item>
+               <item>12. <hi>A Voyage into the Levant,</hi> being a Relation of a Journey lately performed from <hi>England</hi> to <hi>Grand Cairo,</hi> by Sir <hi>Hen. Blunt,</hi> 120. price 1 <hi>s.</hi>
+               </item>
+               <item>13. <hi>A Deſcription of Candia,</hi> with an exact account of the laſt Siege and Surrender of it to the <hi>Turks,</hi> of oct. price bound 1 <hi>s.</hi>
+               </item>
+               <item>14. Calliope<hi>'s Cabinet opened,</hi> wherein Gentlemen may be informed how to order themſelves for Feaſts, Funerals, <hi>&amp;c.</hi> price bound 8 <hi>d.</hi>
+               </item>
+               <item>15. A Diſcourſe of <hi>the Dukedom of</hi> Modena, con<g ref="char:EOLhyphen"/>taining the original Antiquity <hi>&amp;c.</hi> of that Dukdome, in 40, price 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <pb n="9" facs="tcp:46631:6"/>16. <hi>The Travels of</hi> Ulyſſes, how he went to Hell and came back again, <hi>&amp;c,</hi> by <hi>Tho. Hobbs,</hi> price 1 <hi>s.</hi>
+               </item>
+               <item>17. <hi>The preſent ſtate of</hi> London, containing the Antiquity, Fame, Walls, Rivers Gates, Churches, Bridge, with the Cuſtoms and Infranchizements, by <hi>J. Bridal</hi>
+                  <abbr>Eſq</abbr> price 1 <hi>s.</hi>
+               </item>
+               <item>18. <hi>The Wonders of the Peak in</hi> Darbyſhire, com<g ref="char:EOLhyphen"/>monly called the <hi>Devils Arſe of Peak,</hi> by <hi>Tho. Hobbs,</hi> 80, price 1 <hi>s.</hi>
+               </item>
+               <item>19. <hi>The Life and Death of</hi> Mahomet, being the firſt eſtate of <hi>Mahometiſm,</hi> ſhewing all the deſigns that that Impoſtor <hi>Mahomet</hi> had to carry on and ſettle the <hi>Turkiſh</hi> Religion, written by <hi>L. Addiſon</hi> D. D. price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>20. <hi>The Hiſtorians Guide,</hi> or <hi>Brittain</hi>'s Remem<g ref="char:EOLhyphen"/>brancer, being a ſummary account of all the <hi>Actions,</hi> Exploits, <hi>Sieges,</hi> Battels, <hi>Deſigns,</hi> Attempts, <hi>&amp;c.</hi> taking notice of the Year, Month, and day of the Month, all eminent Paſſages have been for 80 years laſt paſt, price 1 <hi>s.</hi> A portable Book.</item>
+               <item>21. The <hi>Connexion,</hi> being Collections of ſome principal Matters in the Reign of King <hi>James,</hi> being the time that nothing of this nature is printed, being betwixt the end of <hi>Megalapſichy,</hi> or the laſt 17 years of Qu. <hi>Eliz.</hi> And the beginnings of Mr. <hi>Ruſhworth, Heath, Nalſon, Whitlock,</hi> and others, price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>22. <hi>The</hi> Moors <hi>bafled,</hi> being a diſcourſe of the Government of <hi>Tangier,</hi> under the Earl of <hi>Tiviot,</hi> ſhewing the ſubtilty and pollicies of both Parties, written by Dr. <hi>Addiſon,</hi> who lived there many years, price 6 <hi>d.</hi> 40.</item>
+               <item>
+                  <pb n="10" facs="tcp:46631:7"/>23. <hi>All the Works of</hi> Homer, both <hi>Illiads</hi> and <hi>Oddyſes,</hi> tranſlated out of <hi>Greek</hi> into <hi>Engliſh,</hi> by <hi>Tho. Hobhs</hi> of <hi>Malmsbury,</hi> price 5 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>24. <hi>Conſiderations</hi> on the Loyalty, Religion, Man<g ref="char:EOLhyphen"/>ners, and Reputation of <hi>Tho. Hobbs</hi> 80, price bound 1 <hi>s.</hi>
+               </item>
+               <item>25. The <hi>Memoires,</hi> and rare <hi>Adventures</hi> of <hi>Henri<g ref="char:EOLhyphen"/>etta Sylvia Moliere,</hi> a great Lady in <hi>France,</hi> now living, written <hi>by her ſelf,</hi> in ſix parts in <hi>French,</hi> and now tranſlated into <hi>Engliſh,</hi> price 4 <hi>s.</hi>
+               </item>
+               <item>26. Tho. Hobb's <hi>Angli Malmsb. Vita,</hi> being an account of Mr. <hi>Hobbs,</hi> of the Books he wrote of the times, when and the occaſion thereof, of the Books and Authors againſt him, of his Converſation, Ac<g ref="char:EOLhyphen"/>quaintance, <hi>&amp;c.</hi> part wrote by himſelf, the reſt by <hi>Dr. B.</hi> in 80, printed 1681.</item>
+               <item>27. <hi>Behemoth,</hi> being the Hiſtory of the Civil Wars of <hi>England,</hi> and the Councels and Artifices, by which they were carried on, from 1640 to 1660, printed now from his own perfect Copy, in which is many pages more then was in the former <hi>Counterfeit Editi<g ref="char:EOLhyphen"/>ons,</hi> none of which Editions before this, had leſs then <hi>a thouſand faults</hi> in them, whole Lines left out in <hi>a hundred places,</hi> which did extreamly pervert the ſence of the Author. <hi>Tho. Hobbs.</hi>
+               </item>
+               <item>28. <hi>The Tracts</hi> of Mr. <hi>Tho. Hobbs</hi> of <hi>Malmsb.</hi> in 2 Vol. in oct. gathering <hi>Nine</hi> of his Treatiſes toge<g ref="char:EOLhyphen"/>ther, which are alſo to be had ſingle, <hi>viz.</hi> 1. <hi>His Life,</hi> in Latin. 2. His <hi>Conſiderations</hi> on his Loyalty, Religion, <hi>&amp;c.</hi> 3. His Art of <hi>Rhetorick</hi> in <hi>Engliſh.</hi> 4. His Dialogue about the <hi>Common Law of</hi> England.
+<pb n="11" facs="tcp:46631:7"/>5. His ten Dialogues of <hi>Natural Philoſophy.</hi> 6. His <hi>Civil Wars</hi> of <hi>England,</hi> the perfect Edition. 7. His Hiſtorical Narration of <hi>Hereſy.</hi> 8. His Anſwer to Biſhop <hi>Bramhal</hi> in <hi>defence of his Leviathan.</hi> 9. His ſeven Problems, with an Apology for his writings to the King, price bound 9 <hi>s.</hi>
+               </item>
+               <item>29. <hi>A New Survey</hi> of the Preſent State of the World, newly written in <hi>French,</hi> and now tranſla<g ref="char:EOLhyphen"/>ted, and printing in <hi>Engliſh,</hi> in oct.</item>
+            </list>
+            <p>
+               <hi>With moſt ſorts of other Curious Hiſtory.</hi>
+            </p>
+            <list>
+               <head>PLAYS and POETRY.</head>
+               <item>1. <hi>HOmer</hi>'s <hi>Works</hi> in Engliſh, by <hi>Tho. Hobbs,</hi> in 120.</item>
+               <item>2. A Poem on the <hi>Life of Mr.</hi> Hobbs, written by himſelf.</item>
+               <item>3. <hi>Melpomene,</hi> or the Muſes delight, being a Col<g ref="char:EOLhyphen"/>lection of new Songs and Poems, by ſeveral of the preſent Wits, in oct.</item>
+               <item>4. A Poem Latin and Engliſh, on <hi>the Devils Arſe of Peak,</hi> by <hi>Tho. Hobbs.</hi>
+               </item>
+               <item>5. <hi>Hug. Grotius Catechiſm</hi> in Greek, Latin, and En<g ref="char:EOLhyphen"/>gliſh, in a <hi>Poem.</hi>
+               </item>
+               <item>6. <hi>The Confinement,</hi> a Poem, with Annotions on it, in oct.</item>
+               <item>7. <hi>Vittoria Corombona,</hi> or the White Devil, a Tra<g ref="char:EOLhyphen"/>gedy 40.</item>
+               <item>
+                  <pb n="12" facs="tcp:46631:8"/>8. <hi>Catalines Conſpiracy,</hi> a Tragedy 40.</item>
+               <item>9. <hi>Rival Kings,</hi> or the Loves of Oroondates, a Tragedy, in 40.</item>
+               <item>10. <hi>The Old Troop,</hi> or Monſieur <hi>Raggou,</hi> a Co<g ref="char:EOLhyphen"/>medy. 40.</item>
+               <item>11. <hi>The Amarous Gallant,</hi> or Love in Faſhion, a Comedy. 40.</item>
+               <item>12. <hi>The Mock-Duelliſt,</hi> a Comedy, 40.</item>
+               <item>13. <hi>Wrangling Lovers,</hi> a Comedy, 40.</item>
+               <item>14. <hi>Tom Eſſence,</hi> a Comedy, 40.</item>
+               <item>15. <hi>The Wits led by the Noſe,</hi> a Comedy, 40.</item>
+               <item>16. <hi>The French Conjurer,</hi> a Comedy, 40.</item>
+               <item>17. <hi>Counterfeit Bridegroom,</hi> a Comedy, 40.</item>
+               <item>18. <hi>Tunbridge Wells,</hi> a Comedy, 40.</item>
+               <item>19. The <hi>Man of New market,</hi> a Comedy, 40.</item>
+               <item>20. The <hi>Conſtant Nymph,</hi> a Paſtoral, 40.</item>
+            </list>
+            <p>
+               <hi>With other Plays and Poetry.</hi>
+            </p>
+            <list>
+               <head>MISCELLANIES.</head>
+               <item>1. <hi>THE deaf and dumb mans diſcourſe;</hi> being a diſ<g ref="char:EOLhyphen"/>courſe to ſhew how the deaf and dumb do underſtand one another, with a Tract of inanimate Creatures, 80. price bound 1 <hi>s.</hi>
+               </item>
+               <item>2. <hi>The Compleat Meaſurer;</hi> or a new and exact way of Menſuration, by <hi>Tho. Hammand,</hi> 80. price. 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <pb n="13" facs="tcp:46631:8"/>3. <hi>The American Phyſician,</hi> treating of all the Roots, Trees, Herbs, Shrubs, Fruits, <hi>&amp;c.</hi> in His Ma<g ref="char:EOLhyphen"/>jeſties Plantations in the <hi>Weſt Indies,</hi> by <hi>William Hughes.</hi> in 120. price bound 1 <hi>s.</hi>
+               </item>
+               <item>4. Lord <hi>Bacon</hi>'s <hi>Apothegms,</hi> or witty Sayings, in 120. bound, price 6 <hi>d.</hi>
+               </item>
+               <item>5. A Letter about <hi>Liberty and Neceſſity,</hi> written by <hi>Tho. Hobbs</hi> to the Duke of <hi>Newcaſtle,</hi> with Biſhop <hi>Lany</hi>'s Anſwer to it. in 120. price bound 10 <hi>d.</hi>
+               </item>
+               <item>6. <hi>Reflections</hi> on the Philoſophy and Philoſophers of the ancient and the modern Times, by <hi>M. Rapine,</hi> in 80. price bound 2 <hi>s.</hi>
+               </item>
+               <item>7. Ten Dialogues of <hi>Natural Philoſophy,</hi> by <hi>Tho. Hobbs,</hi> in 80. price bound 2 <hi>s.</hi>
+               </item>
+               <item>8. <hi>Quinquina;</hi> a diſcourſe of curing Agues and Fevers by the <hi>Quinquina Bark,</hi> commonly called the <hi>Jeſuites Powder,</hi> in 120. price bound 1 <hi>s.</hi>
+               </item>
+               <item>9. A <hi>Sermon</hi> preached at S. <hi>P. T.</hi> by the late Uſur<g ref="char:EOLhyphen"/>per <hi>Oliver Cromwell,</hi> 40. price 3 <hi>d.</hi>
+               </item>
+               <item>10. A Treatiſe of <hi>
+                     <g ref="char:V">Ʋ</g>ſury,</hi> by Sir <hi>Rob. Filmer.</hi>
+               </item>
+               <item>11. <hi>Saunders</hi> his Aſtrological <hi>Phyſick.</hi> in 80.</item>
+               <item>12. <hi>The Court of Curioſity,</hi> being the moſt curi<g ref="char:EOLhyphen"/>ous <hi>Eortune-Book</hi> that ever was extant, anſwering double the Queſtions, and with more exactneſs than any <hi>Fortune-Book</hi> extant, with the learnedſt, and beſt <hi>Interpretation of Dreams</hi> that was ever out: This third Edition made exact to what it was before, price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>13. <hi>Tho. Hobbs his Defence</hi> of his <hi>Leviathan,</hi> againſt Biſhop <hi>Bramhall,</hi> in 80. price 2 <hi>s.</hi>
+               </item>
+               <item>
+                  <pb n="14" facs="tcp:46631:9"/>14. <hi>Hobbs</hi> his 7 <hi>Problems,</hi> in 80.</item>
+               <item>15. <hi>The True Engliſh-man,</hi> being a Vindication of thoſe many Loyal Addreſſes to the King, by Dr. <hi>J. Harriſon</hi> in 40.</item>
+            </list>
+            <p>
+               <hi>By the ſaid</hi> William Crooke <hi>is ſold all ſorts of Engliſh Books, School Books, and moſt ſorts of other Books.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46631:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
